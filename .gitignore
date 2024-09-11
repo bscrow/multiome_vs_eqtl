@@ -1,0 +1,9 @@
+# Do not track data files
+/data
+/SCENT
+/onek1k
+/outputs/*.bed
+/outputs/*.npy
+
+# do not track ipynb checkpoints
+scripts/.ipynb_checkpoints
