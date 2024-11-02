@@ -5,5 +5,9 @@
 /outputs/*.bed
 /outputs/*.npy
 
+*.gz
+*.tsv
+*.csv
+
 # do not track ipynb checkpoints
 scripts/.ipynb_checkpoints
